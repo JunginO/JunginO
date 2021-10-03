@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-##Stats:baby_chick:
+## :baby_chick: Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunginO&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
-##Solved.ac:penguin:
+
+## :penguin: Solved.ac
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{hardertobreathe})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={hardertobreathe})](https://solved.ac/{hardertobreathe})
 
-##Top Langs:bird:
+## :bird: Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunginO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
