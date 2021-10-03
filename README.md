@@ -7,7 +7,7 @@
 ## :penguin: Solved.ac
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={hardertobreathe})](https://solved.ac/{hardertobreathe})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hardertobreathe)](https://solved.ac/hardertobreathe)
 
 ## :bird: Top Langs
 
